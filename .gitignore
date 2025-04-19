@@ -1,0 +1,14 @@
+# Fichiers et dossiers Python à ignorer
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnement virtuel Python
+env/
+venv/
+
+# Fichiers sensibles ou de config locaux
+*.env
+.DS_Store
+
